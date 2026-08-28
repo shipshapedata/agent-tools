@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "shipshape-data": {
+      "type": "http",
+      "url": "https://shipshapedata.com/mcp"
+    },
+    "shipshape-data-docs": {
+      "type": "http",
+      "url": "https://shipshapedata.com/mcp/docs"
+    }
+  }
+}

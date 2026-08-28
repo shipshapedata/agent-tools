@@ -1,0 +1,30 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "shipshape-data"
+version = "1.0.0"
+description = "CLI and SDK for the Shipshape Data public API: services, case studies, 169 practical guides on data and AI, and the AI readiness assessment. Keyless and read-only."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+authors = [{ name = "Shipshape Data Ltd", email = "hello@shipshapedata.com" }]
+keywords = ["shipshape-data", "ai-readiness", "ai-consultancy", "data-foundation", "mcp", "sdk", "cli", "agents"]
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Intended Audience :: Developers",
+  "Topic :: Software Development :: Libraries",
+]
+
+[project.urls]
+Homepage = "https://shipshapedata.com/developers/"
+Repository = "https://github.com/shipshapedata/agent-tools"
+Documentation = "https://shipshapedata.com/developers/"
+
+[project.scripts]
+shipshape = "shipshape_data.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/shipshape_data"]

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "shipshape-data": {
+      "url": "https://shipshapedata.com/mcp"
+    },
+    "shipshape-data-docs": {
+      "url": "https://shipshapedata.com/mcp/docs"
+    }
+  }
+}

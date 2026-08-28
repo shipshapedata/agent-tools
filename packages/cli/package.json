@@ -1,0 +1,15 @@
+{
+  "name": "shipshape-data",
+  "version": "1.0.0",
+  "description": "CLI and SDK for the Shipshape Data public API: services, case studies with real outcomes, 169 practical guides on data and AI, and the 16-question AI readiness assessment. Keyless and read-only.",
+  "keywords": ["shipshape-data", "ai-readiness", "ai-consultancy", "data-foundation", "mcp", "sdk", "cli", "agents"],
+  "homepage": "https://shipshapedata.com/developers/",
+  "bugs": { "email": "hello@shipshapedata.com" },
+  "repository": { "type": "git", "url": "git+https://github.com/shipshapedata/agent-tools.git", "directory": "packages/cli" },
+  "license": "MIT",
+  "author": "Shipshape Data Ltd <hello@shipshapedata.com> (https://shipshapedata.com/)",
+  "main": "lib/client.js",
+  "bin": { "shipshape": "bin/shipshape.js" },
+  "files": ["bin", "lib", "README.md"],
+  "engines": { "node": ">=18" }
+}
