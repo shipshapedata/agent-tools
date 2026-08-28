@@ -36,4 +36,4 @@ console.log(result.score, result.band.name);
 - Agent guide: https://shipshapedata.com/agents.md
 - Python package: `pip install shipshape-data`
 
-MIT © Shipshape Data Ltd
+MIT © Disruptiv Technologies Ltd, trading as Shipshape Data

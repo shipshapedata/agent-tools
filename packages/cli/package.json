@@ -7,7 +7,7 @@
   "bugs": { "email": "hello@shipshapedata.com" },
   "repository": { "type": "git", "url": "git+https://github.com/shipshapedata/agent-tools.git", "directory": "packages/cli" },
   "license": "MIT",
-  "author": "Shipshape Data Ltd <hello@shipshapedata.com> (https://shipshapedata.com/)",
+  "author": "Shipshape Data <hello@shipshapedata.com> (https://shipshapedata.com/)",
   "main": "lib/client.js",
   "bin": { "shipshape": "bin/shipshape.js" },
   "files": ["bin", "lib", "README.md"],

@@ -35,4 +35,4 @@ No API key, no sign-up; fair use is 300 requests a minute per IP.
 - MCP servers: `https://shipshapedata.com/mcp` (product) and `https://shipshapedata.com/mcp/docs` (docs Q&A)
 - Node package: `npx shipshape-data`
 
-MIT © Shipshape Data Ltd
+MIT © Disruptiv Technologies Ltd, trading as Shipshape Data

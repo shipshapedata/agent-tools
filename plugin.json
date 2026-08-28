@@ -3,7 +3,7 @@
   "displayName": "Shipshape Data",
   "description": "Shipshape Data's agent toolkit: two MCP servers (product actions and docs Q&A over 169 data & AI guides) plus skills for querying the consultancy and running its 16-question AI readiness assessment. Keyless and read-only.",
   "version": "1.0.0",
-  "author": { "name": "Shipshape Data Ltd", "email": "hello@shipshapedata.com", "url": "https://shipshapedata.com/" },
+  "author": { "name": "Shipshape Data", "email": "hello@shipshapedata.com", "url": "https://shipshapedata.com/" },
   "homepage": "https://shipshapedata.com/developers/",
   "repository": "https://github.com/shipshapedata/agent-tools",
   "license": "MIT",

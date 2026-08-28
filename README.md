@@ -40,4 +40,4 @@ pip install shipshape-data && shipshape search data lineage
 
 We tell clients their AI is only as good as the data foundation underneath it, and that their products should be as easy for agents to use as for people. This repo is us doing it to ourselves. If you want your product to work like this, [talk to us](https://shipshapedata.com/#contact).
 
-MIT © Shipshape Data Ltd
+MIT © Disruptiv Technologies Ltd, trading as Shipshape Data

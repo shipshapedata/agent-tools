@@ -9,7 +9,7 @@ description = "CLI and SDK for the Shipshape Data public API: services, case stu
 readme = "README.md"
 license = { text = "MIT" }
 requires-python = ">=3.9"
-authors = [{ name = "Shipshape Data Ltd", email = "hello@shipshapedata.com" }]
+authors = [{ name = "Shipshape Data", email = "hello@shipshapedata.com" }]
 keywords = ["shipshape-data", "ai-readiness", "ai-consultancy", "data-foundation", "mcp", "sdk", "cli", "agents"]
 classifiers = [
   "License :: OSI Approved :: MIT License",
